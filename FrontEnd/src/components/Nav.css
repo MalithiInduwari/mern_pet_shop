@@ -1,0 +1,27 @@
+/* Styles for the header */
+.nav-header {
+    background-color: #6b4979;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+  }
+  
+  /* Container within the header */
+  .nav-container {
+    max-width: 1152px; /* 72rem */
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 8px; /* 0.5rem */
+    padding-right: 8px; /* 0.5rem */
+  }
+  
+  /* Styling for the span text */
+  .nav-text {
+    letter-spacing: 15px;
+    padding: 1px;
+    font-family: Calibri, sans-serif;
+  }
+  
